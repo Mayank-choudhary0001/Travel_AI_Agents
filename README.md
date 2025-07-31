@@ -1,4 +1,4 @@
-# 🌍 Travel Planner Agent
+# 🌍 Travel Agentic AI
 
 An AI-powered assistant designed to simplify and enhance travel planning using IBM Cloud Lite and IBM Granite foundation models. It helps users create personalized itineraries, manage bookings, and optimize travel schedules with real-time data integration.
 
